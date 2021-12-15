@@ -1,0 +1,23 @@
+{
+  "name": "bam-scss-bootstrab-starter",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/siddiqun03/bam-scss-bootstrab-starter.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/siddiqun03/bam-scss-bootstrab-starter/issues"
+  },
+  "homepage": "https://github.com/siddiqun03/bam-scss-bootstrab-starter#readme",
+  "dependencies": {
+    "bootstrap": "^5.1.3"
+  }
+}
